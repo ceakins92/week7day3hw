@@ -1,0 +1,13 @@
+#dark-mode {
+  width: 60px;
+  height: 50px;
+}
+
+#maindiv {
+  width: 400px;
+  height: 200px;
+  align-content: space-between;
+  text-align: center;
+  border-width: 1px;
+  border-color: bisque;
+}
